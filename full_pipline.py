@@ -12,7 +12,7 @@ from pydantic import BaseModel, Field
 from typing import TypedDict, List, Dict, Optional, NotRequired
 
 from langchain_community.document_loaders import PyPDFLoader
-orignal_api_key="AIzaSyAwH8VUK59jD2WA7qJyX2UXQovTS9LhTi4"
+
 
 
 
